@@ -5,7 +5,7 @@ Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafı
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __180__ saattir. Dersler __Cumartesi ve Pazar__ günleri __13:00 - 17:00__ saatleri arasında yapılacaktır.
-+ Kursun toplam ücreti KDV dahil 9.360 TL‘dir. Öğrenci olanlara (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil 8.400 TL’dir. Kurs ücreti peşin ya da 2 taksit olarak ödenebilir.
++ Kursun toplam ücreti KDV dahil __9.360__ TL‘dir. Öğrenci olanlara (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil __8.400__ TL’dir. Kurs ücreti peşin ya da 2 taksit olarak ödenebilir.
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/ONLINE-Java-Programlama-Dili-Kursu-26-Kasim-2022/blob/main/kurs_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/ONLINE-Java-Programlama-Dili-Kursu-26-Kasim-2022/blob/main/kurs_icerigi.md)
