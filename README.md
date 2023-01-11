@@ -1,4 +1,4 @@
-# ONLINE-Java-Programlama-Dili-Kursu-4-Mart-2023
+# Online Java ile Nesne Yönelimli Programlama Kursu - 4 Mart2023
 
 Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir.
 + Kurs __4 Mart 2023 Cumartesi__ günü başlayacaktır.
@@ -10,4 +10,4 @@ Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafı
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/ONLINE-Java-Programlama-Dili-Kursu-4-Mart-2023/blob/main/kurs_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/ONLINE-Java-Programlama-Dili-Kursu-4-Mart-2023/blob/main/kurs_icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/ONLINE-Java-Programlama-Dili-Kursu-4-Mart-2023/blob/main/sss.md)
-+ [Kursa Kayıt](https://us02web.zoom.us/meeting/register/tZYkfuGpqDMsG9PHtTyxt4wYbd-L4GY1IAv1)
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZYkfuGpqDMsG9PHtTyxt4wYbd-L4GY1IAv1)
