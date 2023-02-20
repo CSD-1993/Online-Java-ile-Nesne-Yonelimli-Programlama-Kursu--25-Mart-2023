@@ -1,7 +1,7 @@
-# Online Java ile Nesne Yönelimli Programlama Kursu - 4 Mart 2023
+# Online Java ile Nesne Yönelimli Programlama Kursu - 25 Mart 2023
 
 Kurs [__C ve Sistem Programcıları Derneği__](http://www.csystem.org/) tarafından Sistem Bilgisayar İşbirliği ile düzenlenmektedir.
-+ Kurs __4 Mart 2023 Cumartesi__ günü başlayacaktır.
++ Kurs __25 Mart 2023 Cumartesi__ günü başlayacaktır.
 + Kurs eğitmeni __Oğuz Karan__'dır.
 + Kurs gerçek zamanlıdır.
 + Toplam kurs süresi __180__ saattir. Dersler __Cumartesi ve Pazar__ günleri __13:00 - 17:00__ saatleri arasında yapılacaktır.
